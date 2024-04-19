@@ -1,0 +1,8 @@
+play a game
+unbreak
+write
+use function
+clean the code
+play the game
+Eat a samoosa
+deploy to Heroku.
